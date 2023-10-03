@@ -1,0 +1,27 @@
+[
+  {
+    "email": "test@yahoo.com",
+    "password": "ec165da2f12eb3cba9b63750e88707f75810f7c79215a46c1719e9763a670048c6c9d83b1e2907c8252529ac151ad4c05985f377f5bbe8ffd9ede279634c508b.6bce7f8a36418c62",
+    "id": "475189e5"
+  },
+  {
+    "email": "roxana@yahoo.ro",
+    "password": "c42f60c0a32bdcab03bc0cf798bf23b8e65a644f161ff5fb6fcf8e1039647a1f9c2096d03f96b34f12334d6bc02ebec13f6e848985603ca8e78e07af35fca46b.a244d6055d668d99",
+    "id": "7c928ca4"
+  },
+  {
+    "email": "cezara@yahoo.com",
+    "password": "313d9742d948d9fa1de6e5dc4ea29c9539532320b16ab4dccf0e3682545920c79cac9a8d954555d83b06230237f0050343e20da2656ac2151ebcd4c3c8bb656e.c86db27d4e749473",
+    "id": "9cbf276b"
+  },
+  {
+    "email": "deceacezara2003@gmail.com",
+    "password": "3ca8ba6967da2de902ae00da7e42e92daf702babb4c9540a7070a9d9efa217dc6321bdc56321198613ff17cf691e161019ddc88720ddb9b61ebbc937857d3626.0458abb81a50cf51",
+    "id": "ac49e922"
+  },
+  {
+    "email": "marinela@yahoo.com",
+    "password": "ad73f995c1e4cf0e41d16888b10e8b63cdd39dc08f9fb7adeb62df8454d115e75e890a02fa22f29dc40eec4c316dfa8fdbe1649af6024808d1946691e5275b0f.0bd8755d01f865e8",
+    "id": "7e20d422"
+  }
+]
